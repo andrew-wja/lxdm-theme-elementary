@@ -6,12 +6,12 @@
 #time
 {
 	color: #333;
-	font:  Cantarell 14;
+	font:  Cantarell Regular 14;
 }
 #prompt
 {
 	color: #333;
-	font:  Cantarell 14;
+	font:  Cantarell Regular 14;
 }
 #user_list, #login_entry {
 	background-image: none;

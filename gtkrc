@@ -17,13 +17,13 @@ style "back"
 style "time"
 {
 	fg[NORMAL]="#333"
-	font_name="Cantarell 14"
+	font_name="Cantarell Regular 14"
 }
 
 style "prompt"
 {
 	fg[NORMAL]="#333"
-	font_name="Cantarell 14"
+	font_name="Cantarell Regular 14"
 }
 
 widget "lxdm" style "back"
