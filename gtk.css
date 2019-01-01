@@ -1,0 +1,21 @@
+#lxdm
+{
+	background-color: #5d5d5d;
+	border:           0;
+}
+#time
+{
+	color: #333;
+	font:  Sans 14;
+}
+#prompt
+{
+	color: #333;
+	font:  Sans 14;
+}
+#user_list, #login_entry {
+	background-image: none;
+	background-color: #5d5d5d;
+	border:           0;
+	border-color:     0;
+}

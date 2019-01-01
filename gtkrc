@@ -1,0 +1,31 @@
+style "back"
+{
+	engine "pixmap"
+	{
+		image
+		{
+			function = FLAT_BOX
+			shadow=NONE
+			state = NORMAL
+			file="background.png"
+			tile=TRUE
+			detail = "base"
+		}
+	}
+}
+
+style "time"
+{
+	fg[NORMAL]="#333"
+	font_name="Sans 14"
+}
+
+style "prompt"
+{
+	fg[NORMAL]="#333"
+	font_name="Sans 14"
+}
+
+widget "lxdm" style "back"
+widget "lxdm.*.time" style "time"
+widget_class "GtkWindow.GtkVBox.GtkAlignment.GtkVBox.GtkAlignment.GtkHBox.<GtkLabel>" style "prompt"
