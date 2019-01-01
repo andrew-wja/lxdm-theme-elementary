@@ -1,6 +1,6 @@
 #lxdm
 {
-	background-color: #5d5d5d;
+	background-color: #AAA;
 	border:           0;
 }
 #time
@@ -15,7 +15,7 @@
 }
 #user_list, #login_entry {
 	background-image: none;
-	background-color: #5d5d5d;
+	background-color: #AAA;
 	border:           0;
 	border-color:     0;
 }
