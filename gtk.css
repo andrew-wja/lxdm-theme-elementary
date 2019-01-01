@@ -1,7 +1,6 @@
-font:  Cantarell Regular 12;
 #lxdm
 {
-	background-color: #AAA;
+	background-color: #BBB;
 	border:           0;
   font:  Cantarell Regular 14;
 }
@@ -17,7 +16,8 @@ font:  Cantarell Regular 12;
 }
 #user_list, #login_entry {
 	background-image: none;
-	background-color: #AAA;
+	background-color: #BBB;
 	border:           0;
 	border-color:     0;
-}
+	font:  Cantarell Regular 12;
+}	
